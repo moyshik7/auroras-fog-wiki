@@ -64,7 +64,7 @@ export default function HTTPHeader({ type, path }) {
       setTimeout(() => setCopy(false), 3000);
     }
   }, [copied]);
-  const BASE_URL = "https://https://crackheads.dev/";
+  const BASE_URL = "https://crackheads.dev/";
   const fullUrl = new URL(path, BASE_URL).href;
   const url = path;
   return (

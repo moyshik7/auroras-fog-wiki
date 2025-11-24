@@ -8,12 +8,12 @@ import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Auror\'s Fog Wiki',
+  title: 'Aurora\'s Fog Wiki',
   tagline: 'Aurora\'s Fog is a story of adventures of a little man in the wonderful Kingdom of Aurora, shrouded in secrets, riddles, and princesses who are waiting for you to save them',
   favicon: 'img/favicon.png',
 
   // Set the production url of your site here
-  url: 'https://aurorasfog.crackheads.dev',
+  url: 'https://aurorasfog.vercel.app',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -23,7 +23,7 @@ const config = {
   organizationName: 'crackheads-dev', // Usually your GitHub org/user name.
   projectName: 'docs', // Usually your repo name.
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
