@@ -68,7 +68,7 @@ const config = {
       // Replace with your project's social card
       image: 'logo.png',
       navbar: {
-        title: "Aurora's Fog Wiki",
+        title: "🏠 Home",
         /*
         logo: {
           alt: "Aurora's Fog Wiki Logo",

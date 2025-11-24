@@ -6,7 +6,12 @@ description: Welcome to Aurora's Fog Wiki
 ![Wild Poppy Plant in Aurora's Fog](/img/herbs/poppy-wild.jpg)
 
 ## Overview:
-To Be Updated
+| Info          | Value        |
+|---------------|--------------|
+| Name          | Poppy Flower |
+| Inventory ID  | 16           |
+| Supercategory | Red Flower   |
+| Gained From   | Poppy Plant  |
 
 ## Location:
 To Be Updated
