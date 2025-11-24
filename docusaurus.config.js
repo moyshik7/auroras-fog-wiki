@@ -8,9 +8,9 @@ import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Top.gg Documentation',
-  tagline: 'Spice up your Discord experience with our diverse range of Discord Bots!',
-  favicon: 'img/favicon.ico',
+  title: 'Auror\'s Fog Wiki',
+  tagline: 'Aurora\'s Fog is a story of adventures of a little man in the wonderful Kingdom of Aurora, shrouded in secrets, riddles, and princesses who are waiting for you to save them',
+  favicon: 'img/favicon.png',
 
   // Set the production url of your site here
   url: 'https://aurorasfog.crackheads.dev',
@@ -20,7 +20,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'top-gg', // Usually your GitHub org/user name.
+  organizationName: 'crackheads-dev', // Usually your GitHub org/user name.
   projectName: 'docs', // Usually your repo name.
 
   onBrokenLinks: 'throw',
@@ -44,7 +44,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/top-gg/docs/tree/main/docs/',
+            'https://github.com/moyshik7/auroras-fog-wiki/tree/main/',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -66,13 +66,15 @@ const config = {
         defaultMode: "dark"
       },
       // Replace with your project's social card
-      image: 'logo.svg',
+      image: 'logo.png',
       navbar: {
-        title: 'Top.gg',
+        title: "Aurora's Fog Wiki",
+        /*
         logo: {
-          alt: 'Top.gg Logo',
-          src: 'logo.svg',
+          alt: "Aurora's Fog Wiki Logo",
+          src: 'logo.png',
         },
+        */
         items: [
           {
             type: 'docSidebar',
@@ -80,11 +82,13 @@ const config = {
             position: 'right',
             label: 'Docs',
           },
+          /*
           {
             href: 'https://github.com/top-gg-community',
             label: 'Community GitHub',
             position: 'right',
           },
+          */
         ],
       },
 

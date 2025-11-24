@@ -3,16 +3,20 @@ title: Aurora's Fog Wiki
 description: Welcome to Aurora's Fog Wiki
 ---
 
-Hi user 🥰, welcome to Aurora's Fog Wiki. You are currently viewing **v0** of our documentation. We're going to be working on the next version of (v1) soon, stay tuned!
+> Hi user 🥰, welcome to Aurora's Fog Wiki. You are currently viewing **v0** of our documentation. We're going to be working on the next version of (v1) soon, stay tuned!
 
-## Getting Started
 
-If you're looking for old API usage, [click here](/docs/API/v0/@introduction/) or go to the `API` section on the sidebar. For our newer API, please check out [the following page](/docs/API/v1/@introduction/).
+![Aurora's Fog Game Logo](/img/logo.png)
 
-## Getting Help
+Aurora's Fog is a story of adventures of a little man in the wonderful Kingdom of Aurora, shrouded in secrets, riddles, and princesses who are waiting for you to save them. And the most important thing... you write this story! So be patient, have some provisions and go, no adventure awaits!
 
-If you need some help or think you have spotted a problem with our API you can talk to us in our [`#topgg-api`](https://discord.com/channels/264445053596991498/412006692125933568) channel in our [discord server](https://discord.gg/EYHTgJX).
+## Game Features
+- **Open World:** From the very beginning in the Kingdom, you see a huge world that is worth exploring. Find new villages, help the residents and most importantly — find out what kind of evil has settled in the kingdom.
+- **Character Development:** Your character does not stand still and develops depending on your actions. So changing certain Attributes changes the appearance of your character, and Skills improve as they are used.
+- **Replayability:** Many tasks and conflicts can be solved in different ways, it all depends on your style of play.
+- **Craft:** As you progress through the game, you will find recipes for alchemy, food, armor..., but to successfully create an item, you need to repeat everything exactly according to the recipe. The game will reward the most attentive and diligent with High-Quality items.
+- **Relationships:** The world of the game is filled with a large number of characters with their own history and character. As the relationship with one of the characters improves, you will be able to learn about their past, and maybe even engage in Love Joys.
+- **Unique Races:** As mentioned earlier, the world of the game is filled with a huge number of different races: from gentle and caring Felines to howling Minotauresses. Each of the races has unique Skills and Abilities that you can master if you sufficiently improve your relationship with any of the representatives.
 
-You can ask questions about our community-maintained API Libraries or general queries about the API in the server.
-
-![Alt text](/img/npc/shaartan.jpg "Title text")
+![Aurora's Fog Game Screenshot 1](/img/game/IRCaWf.jpg)
+![Aurora's Fog Lock pick](/img/game/TjKeOp.jpg)

@@ -8,7 +8,7 @@ function Logo() {
       <Topgg />
       */}
       <p style={{ margin: "0 0 0 15px" }} className="site-title">
-        Wiki
+        Aurora's Fog Wiki
       </p>
     </div>
   );
