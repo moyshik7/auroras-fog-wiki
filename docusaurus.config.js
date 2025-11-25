@@ -47,6 +47,8 @@ const config = {
 
     onBrokenAnchors: "log",
 
+    plugins: [require.resolve("./src/plugins/tailwind-config.js")],
+
     themeConfig:
         /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
         ({

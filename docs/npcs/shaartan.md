@@ -10,6 +10,7 @@ description: Welcome to Aurora's Fog Wiki
 |-------------|---------------------|
 | Name        | Shaartan            |
 | Gender      | Female              |
+| Race        | Foxgirl             |
 | Class       | Herbalist           |
 | Essential   | Yes                 |
 | Location    | Felis Village       |

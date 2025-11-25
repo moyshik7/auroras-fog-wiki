@@ -26,7 +26,10 @@
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "3.1.1",
-    "@docusaurus/types": "3.1.1"
+    "@docusaurus/types": "3.1.1",
+    "@tailwindcss/postcss": "^4.1.17",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.17"
   },
   "browserslist": {
     "production": [
