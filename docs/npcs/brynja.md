@@ -1,8 +1,8 @@
 ---
-title: Minotauress
+title: Brynja - Minotauress
 description: Welcome to Aurora's Fog Wiki
 ---
-# Minotauress
+# Brynja - Minotauress
 
 ![Minotauress](/img/npc/minotauresses.jpg)
 
