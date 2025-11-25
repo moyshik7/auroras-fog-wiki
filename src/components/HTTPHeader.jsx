@@ -30,7 +30,7 @@ const HeaderWrapper = styled.div`
 const MethodName = styled.h2`
     color: ${(props) => mappings[props.method].color};
     font-weight: 700;
-    font-size: 14px;
+    font-size: 20px;
     margin: 0 10px 0 0;
 `
 
@@ -39,7 +39,7 @@ const EndpointUrl = styled.span``
 const CopyButton = styled.button`
     color: ${(props) => mappings[props.method].color};
     background: inherit;
-    font-size: 14px;
+    font-size: 20px;
     border: none;
     cursor: pointer;
     height: 45px;

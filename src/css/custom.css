@@ -7,89 +7,149 @@
 /* You can override the default Infima variables here. */
 
 @import "tailwindcss";
+@import url("https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=MedievalSharp&display=swap");
+
+.medievalsharp-regular {
+    font-family: "MedievalSharp", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+.eb-garamond {
+    font-family: "EB Garamond", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
 
 @custom-variant dark (&:is([data-theme="dark"] *));
 
-
 :root {
-  --ifm-color-primary: #ff3366;
-  --ifm-color-primary-dark: #ff3366AA;
-  --ifm-color-primary-darker: #ff336699;
-  --ifm-color-primary-darkest: #ff336666;
-  --ifm-color-primary-light: #ff3366;
-  --ifm-color-primary-lighter: #ff3366;
-  --ifm-color-primary-lightest: #ff3366;
-  --ifm-code-font-size: 95%;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+    --ifm-color-primary: #ff3366;
+    --ifm-color-primary-dark: #ff3366aa;
+    --ifm-color-primary-darker: #ff336699;
+    --ifm-color-primary-darkest: #ff336666;
+    --ifm-color-primary-light: #ff3366;
+    --ifm-color-primary-lighter: #ff3366;
+    --ifm-color-primary-lightest: #ff3366;
+    --ifm-code-font-size: 95%;
+    --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 
-  --background: #fff;
-  --ui: 0,0,0;
+    --background: #fff;
+    --ui: 0, 0, 0;
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
-[data-theme='dark'] {
-  --ifm-color-primary: #ff3366;
-  --ifm-color-primary-dark: #ff3366AA;
-  --ifm-color-primary-darker: #ff336699;
-  --ifm-color-primary-darkest: #ff336666;
-  --ifm-color-primary-light: #ff3366;
-  --ifm-color-primary-lighter: #ff3366;
-  --ifm-color-primary-lightest: #ff3366;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+[data-theme="dark"] {
+    --ifm-color-primary: #ff3366;
+    --ifm-color-primary-dark: #ff3366aa;
+    --ifm-color-primary-darker: #ff336699;
+    --ifm-color-primary-darkest: #ff336666;
+    --ifm-color-primary-light: #ff3366;
+    --ifm-color-primary-lighter: #ff3366;
+    --ifm-color-primary-lightest: #ff3366;
+    --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 
-  --background: #070510;
-  --ui: 255,255,255;
+    --background: #070510;
+    --ui: 255, 255, 255;
 }
 
 html {
-  background: var(--background);
+    background: var(--background);
 }
 
 body {
-  max-width: 1440px;
-  margin: 0 auto;
+    font-family: "EB Garamond", serif;
+    font-optical-sizing: auto;
+    width: 90%;
+    margin: 0 auto;
+    user-select: none;
 }
 
 .navbar.navbar--fixed-top {
-  background: linear-gradient(0deg, transparent 0%, var(--background) 100%);
-  box-shadow: none;
+    background: linear-gradient(0deg, transparent 0%, var(--background) 100%);
+    box-shadow: none;
 }
 
 .navbar__brand {
-  width: 100%;
+    width: 100%;
 }
 
 .navbar__logo {
-  width: 52px;
-  height: 52px;
-  filter: invert(1);
+    width: 52px;
+    height: 52px;
+    filter: invert(1);
 }
-[data-theme='dark'] .navbar__logo {
-  filter: invert(0);
+[data-theme="dark"] .navbar__logo {
+    filter: invert(0);
 }
 
 .docItemCol_node_modules-\@docusaurus-theme-classic-lib-theme-DocItem-Layout-styles-module {
-  padding-inline: 48px;
+    padding-inline: 48px;
 }
 
 /* hide the default homepage. */
 .theme-doc-sidebar-item-link [href="/docs/"] {
-  display: none;
+    display: none;
 }
 
 .theme-doc-sidebar-container {
-  border-right: 1px solid rgba(var(--ui), 0.1) !important;
+    border-right: 1px solid rgba(var(--ui), 0.1) !important;
 }
 
 .table-of-contents__left-border {
-  border-left: 1px solid rgba(var(--ui), 0.1);
+    border-left: 1px solid rgba(var(--ui), 0.1);
 }
 
 a {
-  color: unset;
-  text-decoration: underline;
+    color: unset;
+    text-decoration: underline;
 }
 a:hover {
-  color: unset;
-  opacity: 0.8;
+    color: unset;
+    opacity: 0.8;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "MedievalSharp", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+p,
+li,
+a,
+code,
+pre,
+blockquote,
+td,
+th,
+figcaption {
+    font-size: 20px;
+}
+
+h1 {
+    font-size: 48px;
+}
+h2 {
+    font-size: 36px;
+}
+h3 {
+    font-size: 30px;
+}
+h4 {
+    font-size: 24px;
+}
+h5 {
+    font-size: 20px;
+}
+h6 {
+    font-size: 18px;
+}
+ul {
+    list-style-type: disc;
 }
