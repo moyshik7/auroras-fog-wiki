@@ -1,5 +1,5 @@
 ---
-title: Game Info
+title: Game Mechanics
 description: Welcome to Aurora's Fog Wiki
 ---
 # ⠀
