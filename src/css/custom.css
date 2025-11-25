@@ -1,3 +1,5 @@
+
+@import url("https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=MedievalSharp&display=swap");
 /**
  * Any CSS included here will be global. The classic template
  * bundles Infima by default. Infima is a CSS framework designed to
@@ -7,7 +9,6 @@
 /* You can override the default Infima variables here. */
 
 @import "tailwindcss";
-@import url("https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&family=MedievalSharp&display=swap");
 
 .medievalsharp-regular {
     font-family: "MedievalSharp", cursive;
