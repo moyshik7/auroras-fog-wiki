@@ -4,31 +4,72 @@ description: Welcome to Aurora's Fog Wiki
 ---
 # Shaartan
 
-![Shaartan in her yard](/img/npc/shaartan.jpg)
+![Shaartan](/img/npc/shaartan.jpg)
+
+| Info        | Value               |
+|-------------|---------------------|
+| Name        | Shaartan            |
+| Gender      | Female              |
+| Class       | Herbalist           |
+| Essential   | Yes                 |
+| Location    | Felis Village       |
+| Romanceable | Yes                 |
+| Services    | Herbalist, Merchant |
 
 ## Overview
 Shaartan is an herbalist NPC foxgirl. She offers small local quests that generally involve collecting flowers, herbs, and ingredients.  
 
 ## Location & schedule
-- Typical spawn: idk
-- If Shaartan isn't visible in her yard plucking herbs, look for her inside her house.
+- Typical spawn: In her yard picking herbs.
+- If Shaartan isn't visible in her yard picking herbs, look for her inside her house.
+
+##### Shaartan's House
 ![Shaartan's House](/img/npc/shaartans-house.jpg)
 
-## Appearance & personality
-- Appearance: Red furred foxgirl attired.
-- Personality: calm, methodical, and quietly curious about rare plants. She appreciates precision and favors players who bring exact requested items.
+##### Shaartan Picking Herbs
+![Shaartan Picking Herbs](/img/npc/shaartan-picking.jpg)
+
+## Purchasable Items
+- Carrot
+- Onion
+- Scallion
+- Garlic
+- Nettle Leaves
+- Cattail Cob
+- Cattail Core
+- Cattail leaves
+- Poppy Flower
+- Nettle Lotion
+- Healing Powder
+- Nettle Stem
+- Animal Fat
+- Candle
+- Bouncing-bet Flower (White Flower)
+- Chamomile Flower (White Flower)
+- Brownray Knapweed Flower (Purple Flower)
+- Blue Flower
+- Red Mushroom
+- Light Brown Mushroom
+- Antidote
+- Roots
+- Spring Water
+- Torniquet
+- Bandage
+- Healing Bandage
+- Healing Potion
+- Sunroot Fruit
+- Chicory Tea
+
 
 ## Interactions
-- First meeting: greet her to unlock basic dialogue and her initial small quests.
-- Repeatable quests: many of her tasks are repeatable daily or after a cooldown. Through the "Do you have any tasks for me?" dialoh
-- Relationship: completing her requests increases affinity, unlocking improved recipes and positions.
+- First meeting: Greet her to unlock basic dialogue and her initial small quests.
+- Repeatable quests: Many of her tasks are repeatable daily or after a cooldown. Through the "Do you have any tasks for me?" dialogue
+- Relationship: Completing her requests increases affinity, unlocking improved recipes and positions.
 
 ## Quests:
 To be updated
 
 ## Rewards & progression
-- Rewards scale from small crafting materials and XP to unique recipes and higher affinity once you complete quest chains.
-- Completing her chain unlocks scenes.
+To Be Updated
 
-## Quick tips
-- Save before attempting rare-ingredient quests.
+
