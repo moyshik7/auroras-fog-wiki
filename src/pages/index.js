@@ -52,8 +52,8 @@ export default function Hello() {
                             <li><a href="/1/11core/">CORE MECHANICS</a></li>
                             <li><a href="/1/12crafting/">CRAFTING</a></li>
                             <li><a href="/1/11core#hunger-thirst-and-resource-management">HUNGER</a></li>
-                            <li><a href="#">COMBAT</a></li>
-                            <li><a href="#">GEOGRAPHY</a></li>
+                            <li><a href="/1/13combat/">COMBAT</a></li>
+                            <li><a href="/1/14geography/">GEOGRAPHY</a></li>
                             <li><a href="#">ECOLOGY</a></li>
                         </ul>
                     </div>
