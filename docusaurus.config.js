@@ -58,8 +58,6 @@ const config = {
             // Replace with your project's social card
             image: "logo.png",
             navbar: {
-                title: "Home",
-
                 logo: {
                     alt: "Aurora's Fog Wiki Logo",
                     src: "logo.png",
@@ -67,17 +65,12 @@ const config = {
 
                 items: [
                     {
-                        type: "docSidebar",
-                        sidebarId: "tutorialSidebar",
-                        position: "right",
-                        label: "Docs",
-                    }, {
                         href: "https://github.com/moyshik7/auroras-fog-wiki",
-                        label: "Community GitHub",
+                        label: "Contribute",
                         position: "right",
                     }, {
                         href: "https://catinmask.itch.io/aurorasfog",
-                        label: "Download Game",
+                        label: "Download",
                         position: "right",
                     }, 
                 ],

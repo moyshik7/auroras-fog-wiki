@@ -102,8 +102,10 @@ body {
 }
 
 a {
-    color: unset;
+    color: #7e6e4e;
     text-decoration: underline;
+    text-decoration-color: #4b3a17;
+    text-decoration-style: wavy;
 }
 a:hover {
     color: unset;
