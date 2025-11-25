@@ -3,7 +3,7 @@ title: Aurora's Fog Wiki
 description: Welcome to Aurora's Fog Wiki
 ---
 
-![Aurora's Fog Game Logo](/img/logo.png)
+![Aurora's Fog Game Logo](/img/title.png)
 
 # Aurora's Fog Wiki
 

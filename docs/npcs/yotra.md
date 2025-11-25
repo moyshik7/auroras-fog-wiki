@@ -1,0 +1,51 @@
+---
+title: Yotra
+description: Welcome to Aurora's Fog Wiki
+---
+# Yotra
+
+![Yotra](/img/npc/yotra.jpg)
+
+
+## Overview
+Yotra is one of the non-player characters (NPCs) in the game with whom the player can interact, develop a relationship, and unlock specific "acts" or scenes.  
+  
+Interactions with Yotra include dialogue choices that can unlock different scenarios and animations. Updates to the game have added more detailed animations, sound effects (like breathing and moans that vary with satisfaction), and character model improvements for Yotra.  
+  
+Accessing all content related to Yotra often requires following specific questlines and sometimes purchasing pose scrolls from another NPC named Malagdaer or having certain perks.
+  
+| Info        | Value                |
+|-------------|----------------------|
+| Name        | Yotra                |
+| Gender      | Female               |
+| Class       | Blacksmith           |
+| Essential   | Yes                  |
+| Location    | Felis Village        |
+| Romanceable | Yes                  |
+| Services    | Blacksmith, Merchant |
+  
+  
+## Location & schedule
+- Typical spawn: In her yard sawing a plank/timber.
+- If Yotra isn't visible in her yard, look for her inside her house.
+
+##### Map Location
+![Yotra's House Map Aurora's Fog](/img/npc/yotras-house-map.jpg)
+
+##### Yotra's House
+![Yotra's House Aurora's Fog](/img/npc/yotras-house.jpg)
+
+## Purchasable Items
+To Be Updated
+
+
+## Interactions
+To Be Updated
+
+## Quests:
+To be updated
+
+## Rewards & progression
+To Be Updated
+
+

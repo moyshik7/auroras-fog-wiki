@@ -12,23 +12,15 @@ const config = {
     tagline: "Aurora's Fog is a story of adventures of a little man in the wonderful Kingdom of Aurora, shrouded in secrets, riddles, and princesses who are waiting for you to save them",
     favicon: "img/favicon.png",
 
-    // Set the production url of your site here
     url: "https://aurorasfog.vercel.app",
-    // Set the /<baseUrl>/ pathname under which your site is served
-    // For GitHub pages deployment, it is often '/<projectName>/'
     baseUrl: "/",
 
-    // GitHub pages deployment config.
-    // If you aren't using GitHub pages, you don't need these.
     organizationName: "moyshik7", // Usually your GitHub org/user name.
     projectName: "auroras-fog-wiki", // Usually your repo name.
 
     onBrokenLinks: "warn",
     onBrokenMarkdownLinks: "warn",
 
-    // Even if you don't use internationalization, you can use this field to set
-    // useful metadata like html lang. For example, if your site is Chinese, you
-    // may want to replace "en" with "zh-Hans".
     i18n: {
         defaultLocale: "en",
         locales: ["en"],
@@ -41,8 +33,6 @@ const config = {
             ({
                 docs: {
                     sidebarPath: "./sidebars.js",
-                    // Please change this to your repo.
-                    // Remove this to remove the "edit this page" links.
                     editUrl: "https://github.com/moyshik7/auroras-fog-wiki/tree/main/",
                     routeBasePath: "/",
                 },
@@ -53,7 +43,7 @@ const config = {
         ],
     ],
 
-    stylesheets: ["https://raw.githubusercontent.com/top-gg/docs/master/src/css/custom.css"],
+    stylesheets: ["https://raw.githubusercontent.com/moyshik7/auroras-fog-wiki/main/src/css/custom.css"],
 
     onBrokenAnchors: "log",
 
@@ -66,27 +56,28 @@ const config = {
             // Replace with your project's social card
             image: "logo.png",
             navbar: {
-                title: "🏠 Home",
-                /*
-        logo: {
-          alt: "Aurora's Fog Wiki Logo",
-          src: 'logo.png',
-        },
-        */
+                title: "Home",
+
+                logo: {
+                    alt: "Aurora's Fog Wiki Logo",
+                    src: "logo.png",
+                },
+
                 items: [
                     {
                         type: "docSidebar",
                         sidebarId: "tutorialSidebar",
                         position: "right",
                         label: "Docs",
-                    },
-                    /*
-          {
-            href: 'https://github.com/top-gg-community',
-            label: 'Community GitHub',
-            position: 'right',
-          },
-          */
+                    }, {
+                        href: "https://github.com/moyshik7/auroras-fog-wiki",
+                        label: "Community GitHub",
+                        position: "right",
+                    }, {
+                        href: "https://catinmask.itch.io/aurorasfog",
+                        label: "Download Game",
+                        position: "right",
+                    }, 
                 ],
             },
 
