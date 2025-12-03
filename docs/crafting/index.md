@@ -11,7 +11,7 @@ Crafting is arguably the most complex system in Aurora’s Fog, distinguishing i
 
 ## COOKED ITEMS
 - [SEAWEED SOUP](./seaweed-soup/)
-- [Fish Soup](./fish-soup/)
+- [FISH SOUP](./fish-soup/)
 
 ## POTIONS
 - Chamomile Decoction
