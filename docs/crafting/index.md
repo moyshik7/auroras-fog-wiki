@@ -5,6 +5,18 @@ description: Crafting System of the game Aurora's Fog
 
 Crafting is arguably the most complex system in Aurora’s Fog, distinguishing itself through a requirement for recipe adherence and procedural steps. It is not a "click-and-receive" system but a "prepare-and-execute" simulation.
 
+
+## ITEMS THAT CAN BE CRAFTED AT BLACKSMITHING STATION
+- [NAILS](./nails/)
+
+## COOKED ITEMS
+- Seaweed Soup
+- Fish Soup
+
+## POTIONS
+- Chamomile Decoction
+
+
 ## Recipe Adherence and Quality
 The game enforces a strict "follow the recipe" rule. Deviating from the instructions results in failure or the creation of items with the "Terrible" quality level.   
 - **Quality Tiers:** The game rewards "attentive and diligent" players with High-Quality items. Intermediate quality levels were planned to add flexibility.   
@@ -25,3 +37,5 @@ Equipment degradation is a constant threat.
 - **Repair Mechanics:** A specific "Repair" item type exists.   
 - **The Workbench:** A pivotal crafting station. Players can purchase a workbench from Yotra (the blacksmith) to install in their home. This station allows for independent repairs and the crafting of weapon/armor modifications.   
 - **Lockpick Durability:** Even lockpicks have persistent durability states saved across game sessions , preventing "save-scumming" to preserve tools.
+
+

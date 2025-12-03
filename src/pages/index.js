@@ -50,7 +50,7 @@ export default function Hello() {
                         <div className="text-2xl mb-2">GENERAL INFORMATION</div>
                         <ul className="list-disc list-inside">
                             <li><a href="/1/11core/">CORE MECHANICS</a></li>
-                            <li><a href="/1/12crafting/">CRAFTING</a></li>
+                            <li><a href="/crafting/">CRAFTING</a></li>
                             <li><a href="/1/11core#hunger-thirst-and-resource-management">HUNGER</a></li>
                             <li><a href="/1/13combat/">COMBAT</a></li>
                             <li><a href="/1/14geography/">GEOGRAPHY</a></li>
@@ -122,6 +122,10 @@ export default function Hello() {
                     <div className="text-[#b1a07f] w-full min-h-80 p-4">
                         <div className="text-2xl mb-2">UPDATES</div>
                         <p>Current Version: 0.12.1</p>
+
+                        
+                        <div className="text-2xl mb-2">NEXT UPDATE ETA</div>
+                        <p>DECEMBER 2025</p>
                     </div>
                 </div>
 
@@ -133,7 +137,7 @@ export default function Hello() {
                         </a>
                         <br/>
                         <a target="_blank" href="https://boosty.to/aurorasfog">
-                            Boostin Page (Full Game)
+                            Boosty Page (Full Game)
                         </a>
                         <br/>
                         <a target="_blank" href="https://www.youtube.com/@catinmask">
