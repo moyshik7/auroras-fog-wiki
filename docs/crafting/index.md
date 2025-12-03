@@ -10,7 +10,7 @@ Crafting is arguably the most complex system in Aurora’s Fog, distinguishing i
 - [NAILS](./nails/)
 
 ## COOKED ITEMS
-- Seaweed Soup
+- [SEAWEED SOUP](./seaweed-soup/)
 - Fish Soup
 
 ## POTIONS
