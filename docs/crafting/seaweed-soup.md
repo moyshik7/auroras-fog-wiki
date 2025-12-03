@@ -19,12 +19,13 @@ description: Cooking Seaweed Soup in Aurora's Fog
 
 ## Recipe:
 - Select Pot from "Craft Tools"
-- Add half liter water and boil
-- Clean and cut carp
-- Chop Seaweed
-- Chop Pennybun
-- Cook them for awhile
-- Add Turnip (chopped), Carrots (chopped), onions (chopped)
+- Add half liter (1) water and boil
+- Add Carp (Cleaned)
+- Add Seaweed (Chopped)
+- Add Pennybun (Chopped)
+- Add Turnip (Chopped)
+- Add Carrots (Chopped)
+- Add Onions (Chopped)
 - Cook on medium heat
 - Set cooking duration to 15 minutes
 

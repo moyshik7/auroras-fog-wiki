@@ -17,7 +17,7 @@ description: Cooking Fish Soup in Aurora's Fog
 
 ## Recipe:
 - Select Pot from "Craft Tools"
-- Add half liter water and boil
+- Add half liter (1) water and boil
 - Add Carp (Cleaned)
 - Add Turnips (Chopped)
 - Add Carrots (Chopped)
