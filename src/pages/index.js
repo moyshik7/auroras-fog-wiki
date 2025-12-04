@@ -77,7 +77,7 @@ export default function Hello() {
                     <div className="border-2 border-[#4b3a17] text-[#b1a07f] w-full min-h-80 p-4">
                         <div className="text-2xl mb-2">WORLD INFORMATION</div>
                         <ul className="list-disc list-inside">
-                            <li><a href="#">LOCATION</a></li>
+                            <li><a href="/npcs/">NPCs</a></li>
                             <li><a href="/maps/">MAPS</a></li>
                             <li><a href="#">ANIMALS</a></li>
                             <li><a href="/herbs/">HERBS</a></li>
