@@ -11,7 +11,7 @@ export const BasicQuestCard = ({ quest }) => {
 export const BasicQuestCardWithDescription = ({ quest }) => {
     return (
         <div className="w-full md:w-1/2 p-1">
-            <div className="border-4 border-[#4b3a17] text-[#b1a07f] font-serif p-4 shadow-md w-full">
+            <div className="border-4 border-[#4b3a17] text-[#b1a07f] font-serif p-4 shadow-md w-full min-h-48">
                 <h3 className="text-xl font-bold mb-2">{quest.title}</h3>
                 <p className="text-base">{quest.description}</p>
             </div>
