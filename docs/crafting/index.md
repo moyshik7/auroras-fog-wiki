@@ -17,9 +17,9 @@ Crafting is arguably the most complex system in Aurora’s Fog, distinguishing i
 - [NETTLE SOUP](./nettle-soup/)
 - [STEAMED TURNIP](./steamed-turnip/)
 - [VEGETABLE SOUP](./vegetable-soup/)
+- [BAKED WOLF MEAT](./baked-wolf-meat/)
 - FRIED CARP WITH ONIONS
 - BAKED POTATO
-- BAKED WOLF MEAT
 - MUSHROOM SALAD
 
 
