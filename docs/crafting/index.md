@@ -1,5 +1,5 @@
 ---
-title: Crafting System
+title: Crafting
 description: Crafting System of the game Aurora's Fog
 ---
 

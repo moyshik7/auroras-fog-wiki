@@ -2,7 +2,8 @@
 title: Shaartan
 description: Welcome to Aurora's Fog Wiki
 ---
-# Shaartan
+
+import { BasicQuestCardWithDescription } from '../../components/questcard.jsx';
 
 ![Shaartan](/img/npc/shaartan.jpg)
 
@@ -67,8 +68,27 @@ Shaartan is an herbalist NPC foxgirl. She offers small local quests that general
 - Repeatable quests: Many of her tasks are repeatable daily or after a cooldown. Through the "Do you have any tasks for me?" dialogue
 - Relationship: Completing her requests increases affinity, unlocking improved recipes and positions.
 
-## Quests:
-To be updated
+## Repeatable Quests:
+<div className="my-4 flex justify-between items-center flex-wrap">
+    <BasicQuestCardWithDescription
+        quest={{
+            title: "Mushrooms for potion",
+            description: "Shaartan asked to collect few types of mushrooms  that she needs for potions"
+        }}
+    />
+    <BasicQuestCardWithDescription
+        quest={{
+            title: "Herbals for shaartan",
+            description: "Shaartan asked me to collect and bring her herbs. Cattail cobs, Chamomile Flowers and Nettle leaves. Three of each."
+        }}
+    />
+    <BasicQuestCardWithDescription
+        quest={{
+            title: "Alchemy Fuel",
+            description: "Shaartan asked to get some coal, needed for brewing more complex potions."
+        }}
+    />
+</div>
 
 ## Rewards & progression
 To Be Updated

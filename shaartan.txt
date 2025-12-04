@@ -1,0 +1,16 @@
+Mushrooms for potion
+- Shaartan asked to collect few types of mushrooms that she needs for potions
+- Fly Amanita x3
+- False chanteereleer x3
+- Bay Bolete x3
+- Reward: 0.3
+Herbals for shaartan
+- Shaartan asked me to collect and bring her herbs. Cattail cobs, Chamomile Flowers and Nettle leaves. Three of each.
+- 3 Nettle Leaves
+- 3 Chamomile flowers
+- Cattail Leaves x 3 and cobs x3
+- Reward: 0.15
+Alchemy Fuel
+- Shaartan asked to get some coal, needed for brewing more complex potions.
+- Choal x 5
+- Reward: 0.35
