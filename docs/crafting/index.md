@@ -15,6 +15,7 @@ Crafting is arguably the most complex system in Aurora’s Fog, distinguishing i
 - [FISH SOUP](./fish-soup/)
 - [CHICORY TEA](./chicory-tea/)
 - [NETTLE SOUP](./nettle-soup/)
+- [STEAMED TURNIP](./steamed-turnip/)
 - VEGETABLE SOUP
 - FRIED CARP WITH ONIONS
 - BAKED POTATO

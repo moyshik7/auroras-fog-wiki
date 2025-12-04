@@ -24,4 +24,5 @@ description: Steamed Turnip Recipe in Aurora's Fog
 
 ## In Game Instructions:
 Take a whole turnip and place it in a metal or clay pot. After that, add a little water to the pot, about half a liter and place it in the oven over high heat. After about ten minutes, the pot can be taken out of the oven and the turnip will be ready for use.
+  
 You can eat steamed turnips with sour cream, honey, jam, or just melted butter.
