@@ -14,12 +14,12 @@ Crafting is arguably the most complex system in Aurora’s Fog, distinguishing i
 - [SEAWEED SOUP](./seaweed-soup/)
 - [FISH SOUP](./fish-soup/)
 - [CHICORY TEA](./chicory-tea/)
+- [NETTLE SOUP](./nettle-soup/)
 - VEGETABLE SOUP
 - FRIED CARP WITH ONIONS
 - BAKED POTATO
 - BAKED WOLF MEAT
 - MUSHROOM SALAD
-- NETTLE SOUP
 
 
 ## POTIONS
