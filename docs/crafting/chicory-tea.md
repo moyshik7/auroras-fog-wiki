@@ -1,6 +1,6 @@
 ---
-title: Cooking Chicory Tea
-description: Cooking Chicory Tea in Aurora's Fog
+title: Chicory Tea Recipe
+description: Chicory Tea Recipe in Aurora's Fog
 ---
 
 ## Ingredients:

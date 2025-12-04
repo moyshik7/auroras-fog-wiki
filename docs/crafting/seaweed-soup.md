@@ -1,6 +1,6 @@
 ---
-title: Cooking Seaweed Soup
-description: Cooking Seaweed Soup in Aurora's Fog
+title: Seaweed Soup Recipe
+description: Seaweed Soup Recipe in Aurora's Fog
 ---
 
 ## Ingredients:

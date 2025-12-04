@@ -1,6 +1,6 @@
 ---
-title: Cooking Fish Soup
-description: Cooking Fish Soup in Aurora's Fog
+title: Fish Soup Recipe
+description: Fish Soup Recipe in Aurora's Fog
 ---
 
 ## Ingredients:
