@@ -10,9 +10,10 @@ description: Welcome to Aurora's Fog Wiki
 - Chicory Flower
 - St. John's Wort Flower
 - Brownray Knapweed Flower
-- Bouncing-bet Flower
+- [Bouncing-bet Flower](./bouncing-bet/)
 - Sunroot Flower
 - Rhododendron Flower
 
 ## List of Plants in Aurora's Fog
-To Be Updated
+- Nettle
+- Cattle
