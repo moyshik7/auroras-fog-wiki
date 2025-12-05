@@ -5,8 +5,6 @@ description: Welcome to Aurora's Fog Wiki
 
 ![Wild Chamomile Flower in Aurora's Fog](/img/herbs/chamomile-wild.jpg)
 
-## Supercategory:
-- White Flower
 
 ## Overview:
 To Be Updated

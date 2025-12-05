@@ -6,6 +6,7 @@ description: Welcome to Aurora's Fog Wiki
 ## List of Herbs in Aurora's Fog
 - [Poppy Flower (Red FLower)](./poppy/)
 - [Chamomile Flower (White FLower)](./chamomile/)
+- [Cornflower](./cornflower/)
 - Goldenrod Flower
 - Chicory Flower
 - St. John's Wort Flower
