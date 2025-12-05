@@ -13,7 +13,7 @@ description: Welcome to Aurora's Fog Wiki
 - Brownray Knapweed Flower
 - [Bouncing-bet Flower](./bouncing-bet/)
 - Sunroot Flower
-- Rhododendron Flower
+- [Rhododendron Flower](./rhododendron/)
 
 ## List of Plants in Aurora's Fog
 - [Pumpkin](./pumpkin/)
