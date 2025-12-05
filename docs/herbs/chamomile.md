@@ -15,10 +15,8 @@ To Be Updated
 To Be Updated
 
 ## Used in Recipes:
-To Be Updated
+- [CHAMOMILE DECOCTION](/crafting/chamomile-decoction/)
 
 ## Required For Quests:
-To Be Updated
+- Herbals for Shaartan (3 Piece)
 
-## Quick tips
-- Save before attempting rare-ingredient quests.

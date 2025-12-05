@@ -4,7 +4,7 @@ Mushrooms for potion
 - False chanteereleer x3
 - Bay Bolete x3
 - Reward: 0.3
-Herbals for shaartan
+Herbals for Shaartan
 - Shaartan asked me to collect and bring her herbs. Cattail cobs, Chamomile Flowers and Nettle leaves. Three of each.
 - 3 Nettle Leaves
 - 3 Chamomile flowers
