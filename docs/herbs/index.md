@@ -18,5 +18,5 @@ description: Welcome to Aurora's Fog Wiki
 ## List of Plants in Aurora's Fog
 - [Pumpkin](./pumpkin/)
 - Nettle
-- Seaweed
+- [Seaweed](./seaweed/)
 - [Cattail](./cattail/)
