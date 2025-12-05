@@ -12,5 +12,6 @@ Most of the NPCs in Aurora's Fog are named characters. These characters are all 
   
 Some named characters are deemed to be Essential Characters. The following is a list pertaining to such NPCs:  
 
-- [Minotauress](./minotauress) 
-- [Shaartan](./shaartan)
+- [Brynja](./brynja/) 
+- [Shaartan](./shaartan/)
+- [Yorta](./yotra/)
