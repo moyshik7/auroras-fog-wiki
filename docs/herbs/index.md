@@ -20,3 +20,7 @@ description: Welcome to Aurora's Fog Wiki
 - [Nettle](./nettle/)
 - [Seaweed](./seaweed/)
 - [Cattail](./cattail/)
+
+## List of Mushrooms in Aurora's Fog
+- False Chanterelle
+- Fly Amanita
