@@ -21,6 +21,7 @@ Crafting is arguably the most complex system in Aurora’s Fog, distinguishing i
 - [BAKED WOLF MEAT](./baked-wolf-meat/)
 - [BAKED BEAR MEAT](./baked-bear-meat/)
 - [PARENKI](./parenki/)
+- [FRIED SAFFRON MILK CUP](./fried-saffron-milk-cup/)
 
 
 ## POTIONS
