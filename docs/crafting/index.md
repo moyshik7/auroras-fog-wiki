@@ -19,12 +19,10 @@ Crafting is arguably the most complex system in Aurora’s Fog, distinguishing i
 - [VEGETABLE SOUP](./vegetable-soup/)
 - [BAKED WOLF MEAT](./baked-wolf-meat/)
 - [BAKED BEAR MEAT](./baked-bear-meat/)
-- FRIED CARP WITH ONIONS
-- BAKED POTATO
-- MUSHROOM SALAD
 
 
 ## POTIONS
+- [CHAMOMILE DECOCTION](./chamomile-decoction/)
 - Chamomile Decoction
 
 
