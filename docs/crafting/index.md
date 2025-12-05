@@ -23,7 +23,6 @@ Crafting is arguably the most complex system in Aurora’s Fog, distinguishing i
 
 ## POTIONS
 - [CHAMOMILE DECOCTION](./chamomile-decoction/)
-- Chamomile Decoction
 
 
 ## Recipe Adherence and Quality
