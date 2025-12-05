@@ -1,6 +1,6 @@
 ---
 title: Chamomile Flower
-description: Welcome to Aurora's Fog Wiki
+description: Chamomile Flower in Aurora's Fog Game
 ---
 
 ![Wild Chamomile Flower in Aurora's Fog](/img/herbs/chamomile-wild.jpg)

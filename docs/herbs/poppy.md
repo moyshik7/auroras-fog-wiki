@@ -1,6 +1,6 @@
 ---
 title: Poppy Flower
-description: Welcome to Aurora's Fog Wiki
+description: Poppy Flower in Aurora's Fog Game
 ---
 
 ![Wild Poppy Plant in Aurora's Fog](/img/herbs/poppy-wild.jpg)
