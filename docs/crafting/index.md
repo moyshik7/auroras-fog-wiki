@@ -9,6 +9,7 @@ Crafting is arguably the most complex system in Aurora’s Fog, distinguishing i
 ## ITEMS THAT CAN BE CRAFTED AT BLACKSMITHING STATION
 - [NAILS](./nails/)
 - [CANDLES](./candles/)
+- THREADS
 
 ## COOKED ITEMS
 - [SEAWEED SOUP](./seaweed-soup/)
