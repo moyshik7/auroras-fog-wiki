@@ -15,3 +15,5 @@ description: Welcome to Aurora's Fog Wiki
     - v0.11 (March 2025): Added Character Vlada, Portuguese language support, and 3 new quests.
     - v0.12 (July 2025): Visuals Update. Full map rendering, new flora, updated resource locations.
     - v0.12.1 (Sept 2025): Reworked Yotra's animations.
+    - v0.12.6.2 (April 2026): Public Version (Free)
+    - v0.12.8 (April 2026): Subscriber's Version (Warrior Level Required on Boostly)

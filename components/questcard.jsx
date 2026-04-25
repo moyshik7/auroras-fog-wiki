@@ -1,8 +1,8 @@
 export const BasicQuestCard = ({ quest }) => {
     return (
         <div className="w-full md:w-1/2 p-1">
-            <div className="border-4 border-[#4b3a17] text-[#b1a07f] font-serif p-4 shadow-md w-full">
-                <h3 className="text-xl font-bold">{quest.title}</h3>
+            <div className="quest-card w-full p-4">
+                <h3 className="text-xl font-bold mb-0">{quest.title}</h3>
             </div>
         </div>
     )
@@ -11,7 +11,7 @@ export const BasicQuestCard = ({ quest }) => {
 export const BasicQuestCardWithDescription = ({ quest }) => {
     return (
         <div className="w-full md:w-1/2 p-1">
-            <div className="border-4 border-[#4b3a17] text-[#b1a07f] font-serif p-4 shadow-md w-full min-h-48">
+            <div className="quest-card w-full min-h-48 p-4">
                 <h3 className="text-xl font-bold mb-2">{quest.title}</h3>
                 <p className="text-base">{quest.description}</p>
             </div>
@@ -22,7 +22,7 @@ export const BasicQuestCardWithDescription = ({ quest }) => {
 export const QuestCard = ({ quest }) => {
     return (
         <div className="w-full md:w-1/2 p-1">
-            <div className="border-4 border-[#4b3a17] text-[#b1a07f] font-serif p-4 shadow-md w-full">
+            <div className="quest-card w-full p-4">
                 <h3 className="text-xl font-bold mb-2">{quest.title}</h3>
                 <p className="text-base mb-2">{quest.description}</p>
                 <ul className="list-disc list-inside">

@@ -5,5 +5,5 @@ description: Welcome to Aurora's Fog Wiki
 
 ## List of Maps
 
-- [Starting VIllage (Felis)](./felis/)
-- [Starting Zone Overview](./starting/)
+- [Starting VIllage (Felis)](/maps/felis/)
+- [Starting Zone Overview](/maps/starting/)

@@ -2,17 +2,17 @@
 title: Game Mechanics
 description: Welcome to Aurora's Fog Wiki
 ---
-- ## [Core Mechanics](./11core/)
+- ## [Core Mechanics](/1/11core/)
 - ## [Crafting System](/crafting/)
-- ## [Combat and Physics Architecture](./13combat/)
-- ## [Geography](./14geography/)
+- ## [Combat and Physics Architecture](/1/13combat/)
+- ## [Geography](/1/14geography/)
 - ## [Ecology](#)
 - ## [Quest Design and Narrative Structure](#)
-- ## [Technical Issues and Debugging](./19bugs.md)
+- ## [Technical Issues and Debugging](/1/19bugs/)
 
 
-## [System Requirements](./system/)
-## [Changelog / Updates](./18updates/)
+## [System Requirements](/1/system/)
+## [Changelog / Updates](/1/18updates/)
   
 
 ## [Official Youtube Channel](https://www.youtube.com/@catinmask)

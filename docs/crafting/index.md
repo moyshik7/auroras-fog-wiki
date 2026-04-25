@@ -7,25 +7,25 @@ Crafting is arguably the most complex system in Aurora’s Fog, distinguishing i
 
 
 ## ITEMS THAT CAN BE CRAFTED AT BLACKSMITHING STATION
-- [NAILS](./nails/)
-- [CANDLES](./candles/)
+- [NAILS](/crafting/nails/)
+- [CANDLES](/crafting/candles/)
 - THREADS
 
 ## COOKED ITEMS
-- [SEAWEED SOUP](./seaweed-soup/)
-- [FISH SOUP](./fish-soup/)
-- [CHICORY TEA](./chicory-tea/)
-- [NETTLE SOUP](./nettle-soup/)
-- [STEAMED TURNIP](./steamed-turnip/)
-- [VEGETABLE SOUP](./vegetable-soup/)
-- [BAKED WOLF MEAT](./baked-wolf-meat/)
-- [BAKED BEAR MEAT](./baked-bear-meat/)
-- [PARENKI](./parenki/)
-- [FRIED SAFFRON MILK CUP](./fried-saffron-milk-cup/)
+- [SEAWEED SOUP](/crafting/seaweed-soup/)
+- [FISH SOUP](/crafting/fish-soup/)
+- [CHICORY TEA](/crafting/chicory-tea/)
+- [NETTLE SOUP](/crafting/nettle-soup/)
+- [STEAMED TURNIP](/crafting/steamed-turnip/)
+- [VEGETABLE SOUP](/crafting/vegetable-soup/)
+- [BAKED WOLF MEAT](/crafting/baked-wolf-meat/)
+- [BAKED BEAR MEAT](/crafting/baked-bear-meat/)
+- [PARENKI](/crafting/parenki/)
+- [FRIED SAFFRON MILK CUP](/crafting/fried-saffron-milk-cup/)
 
 
 ## POTIONS
-- [CHAMOMILE DECOCTION](./chamomile-decoction/)
+- [CHAMOMILE DECOCTION](/crafting/chamomile-decoction/)
 
 
 ## Recipe Adherence and Quality
